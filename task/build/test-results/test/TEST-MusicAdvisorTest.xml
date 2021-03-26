@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MusicAdvisorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-26T09:57:47" hostname="MacBook-Air-Petr.local" time="0.281">
+  <properties/>
+  <testcase name="start" classname="MusicAdvisorTest" time="0.281"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+> auth
+https://accounts.spotify.com/authorize?client_id=6035cc165c744bba80145224ee81ad21&redirect_uri=http://localhost:8080&response_type=code
+---SUCCESS---
+> exit
+---GOODBYE!---
+?[1;31m
+Start test 2?[0m
+> new
+Please, provide access for application.
+> exit
+---GOODBYE!---
+?[1;31m
+Start test 3?[0m
+> featured
+Please, provide access for application.
+> exit
+---GOODBYE!---
+?[1;31m
+Start test 4?[0m
+> auth
+https://accounts.spotify.com/authorize?client_id=6035cc165c744bba80145224ee81ad21&redirect_uri=http://localhost:8080&response_type=code
+---SUCCESS---
+> new
+---NEW RELEASES---
+Mountains [Sia, Diplo, Labrinth]
+Runaway [Lil Peep]
+The Greatest Show [Panic! At The Disco]
+All Out Life [Slipknot]
+> featured
+---FEATURED---
+Mellow Morning
+Wake Up and Smell the Coffee
+Monday Motivation
+Songs to Sing in the Shower
+> exit
+---GOODBYE!---
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
