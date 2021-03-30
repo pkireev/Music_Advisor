@@ -303,6 +303,9 @@ files:
         }
     }
   learner_created: false
+- name: src/advisor/Constants.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/62/stages/337/implement#comment
 status: Solved
 feedback:

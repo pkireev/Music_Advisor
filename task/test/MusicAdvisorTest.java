@@ -57,7 +57,7 @@ public class MusicAdvisorTest extends StageTest<String> {
         }
 
         try {
-            // Thread.sleep(100);
+            Thread.sleep(100);
         } catch (Exception e) {
             e.printStackTrace();
         }
