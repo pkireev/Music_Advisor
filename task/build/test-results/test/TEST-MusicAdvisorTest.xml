@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="MusicAdvisorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-30T18:21:47" hostname="MacBook-Air-Petr.local" time="1.152">
+<testsuite name="MusicAdvisorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-30T18:26:15" hostname="MacBook-Air-Petr.local" time="1.255">
   <properties/>
-  <testcase name="start" classname="MusicAdvisorTest" time="1.152"/>
+  <testcase name="start" classname="MusicAdvisorTest" time="1.255"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 > auth
