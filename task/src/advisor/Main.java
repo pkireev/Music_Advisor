@@ -19,7 +19,7 @@ public class Main {
     static HttpServer server;
     static HttpClient client = HttpClient.newBuilder().build();
     static String spotifyAddress = "https://accounts.spotify.com";
-    static String client_id = "6035cc165c744bba80145224ee81ad21";
+    static String client_id = "";
     static String code = "";
 
     public static void main(String[] args) {
@@ -229,8 +229,7 @@ public class Main {
     static void postTheCode() {
 
         String requestBody = String.format("grant_type=authorization_code&code=%s&redirect_uri=http://localhost:8080", code)
-                + "&client_id=6035cc165c744bba80145224ee81ad21&client_secret=2040b45594d94f469649568c6b8fe48d";
-        String authHeader = "Authorization: Basic NjAzNWNjMTY1Yzc0NGJiYTgwMTQ1MjI0ZWU4MWFkMjE6MjA0MGI0NTU5NGQ5NGY0Njk2NDk1NjhjNmI4ZmU0OGQ=";
+                + "&client_id=&client_secret=";
 
         HttpRequest request = HttpRequest.newBuilder()
                 .header("Content-Type", "application/x-www-form-urlencoded")
