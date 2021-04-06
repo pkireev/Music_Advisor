@@ -1,0 +1,605 @@
+{
+  "playlists" : {
+    "href" : "https://api.spotify.com/v1/browse/categories/gaming/playlists?offset=0&limit=20",
+    "items" : [ {
+      "collaborative" : false,
+      "description" : "The tracks that gamers love.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWTyiBJ6yEqeu"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWTyiBJ6yEqeu",
+      "id" : "37i9dQZF1DWTyiBJ6yEqeu",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000321a2087747d946f16704b8af",
+        "width" : null
+      } ],
+      "name" : "Top Gaming Tracks",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNDk5NSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWTyiBJ6yEqeu/tracks",
+        "total" : 60
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWTyiBJ6yEqeu"
+    }, {
+      "collaborative" : false,
+      "description" : "Double-jump into these legendary video game soundtracks, featuring old favourites and new classics.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXdfOcg1fm0VG"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdfOcg1fm0VG",
+      "id" : "37i9dQZF1DXdfOcg1fm0VG",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000033a3e92735a80354a35694409",
+        "width" : null
+      } ],
+      "name" : "Video Game Soundtracks",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNTAxMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdfOcg1fm0VG/tracks",
+        "total" : 88
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXdfOcg1fm0VG"
+    }, {
+      "collaborative" : false,
+      "description" : "Pass the sticks & press play.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWT5MrZnPU1zD"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWT5MrZnPU1zD",
+      "id" : "37i9dQZF1DWT5MrZnPU1zD",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003b3b00062a8f6ee13c95cc9e7",
+        "width" : null
+      } ],
+      "name" : "Hip Hop Controller",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNDk5NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWT5MrZnPU1zD/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWT5MrZnPU1zD"
+    }, {
+      "collaborative" : false,
+      "description" : "Equal parts nostalgic synthwave sounds and modern production.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdLEN7aqioXM",
+      "id" : "37i9dQZF1DXdLEN7aqioXM",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003d868372b47b5f0514f0c40b6",
+        "width" : null
+      } ],
+      "name" : "RetroWave / Outrun",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNDk5MywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdLEN7aqioXM/tracks",
+        "total" : 60
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXdLEN7aqioXM"
+    }, {
+      "collaborative" : false,
+      "description" : "All things <a href=\"spotify:genre:bass\">bass</a> with DEATHPACT. \nIn cooperation with Eternity Research Group and the DEATHCORD Communication Program.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX0hvSv9Rf41p"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0hvSv9Rf41p",
+      "id" : "37i9dQZF1DX0hvSv9Rf41p",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000392d346423160110803df2a76",
+        "width" : null
+      } ],
+      "name" : "Bass Arcade",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNDk5MywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0hvSv9Rf41p/tracks",
+        "total" : 90
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX0hvSv9Rf41p"
+    }, {
+      "collaborative" : false,
+      "description" : "For those that like it hard and heavy.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXcOYQJYGaYjk"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXcOYQJYGaYjk",
+      "id" : "37i9dQZF1DXcOYQJYGaYjk",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003b2089d54ba3e235a22b28914",
+        "width" : null
+      } ],
+      "name" : "Heavy Gamer",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNTAxMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXcOYQJYGaYjk/tracks",
+        "total" : 70
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXcOYQJYGaYjk"
+    }, {
+      "collaborative" : false,
+      "description" : "Rock out while you game, this is 10+ hours of the best in Rock.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZjmJmeiazwd"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZjmJmeiazwd",
+      "id" : "37i9dQZF1DWZjmJmeiazwd",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035da7920d284b7f56507580b3",
+        "width" : null
+      } ],
+      "name" : "Ultimate Rock Gaming",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNTAxMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZjmJmeiazwd/tracks",
+        "total" : 150
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWZjmJmeiazwd"
+    }, {
+      "collaborative" : false,
+      "description" : "Dance, Bass, EDM: the perfect gaming mix.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWYN9NBqvY7Tx"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYN9NBqvY7Tx",
+      "id" : "37i9dQZF1DWYN9NBqvY7Tx",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000031593bd76299d0858f9c69fcf",
+        "width" : null
+      } ],
+      "name" : "Ultra Gaming",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNTAxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYN9NBqvY7Tx/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWYN9NBqvY7Tx"
+    }, {
+      "collaborative" : false,
+      "description" : "The official destination for the sounds of League.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWVi45nh2EuPP"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVi45nh2EuPP",
+      "id" : "37i9dQZF1DWVi45nh2EuPP",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035f0ff9251e3cfe641160dc31",
+        "width" : null
+      } ],
+      "name" : "League of Legends Official Playlist",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNDk3OSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVi45nh2EuPP/tracks",
+        "total" : 166
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWVi45nh2EuPP"
+    }, {
+      "collaborative" : false,
+      "description" : "Music to game to.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX9QWEVCu9UDA"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX9QWEVCu9UDA",
+      "id" : "37i9dQZF1DX9QWEVCu9UDA",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000030ed6ebaaa4c4ac3fb7cebd60",
+        "width" : null
+      } ],
+      "name" : "Gaming Lounge",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNDk5NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX9QWEVCu9UDA/tracks",
+        "total" : 130
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX9QWEVCu9UDA"
+    }, {
+      "collaborative" : false,
+      "description" : "Instrumental bliss beyond genre classification.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWUraJYejk11q"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUraJYejk11q",
+      "id" : "37i9dQZF1DWUraJYejk11q",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000034abf08ffea59d07bfdbc9e1d",
+        "width" : null
+      } ],
+      "name" : "Genre Glitch",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNTAxMiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUraJYejk11q/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWUraJYejk11q"
+    }, {
+      "collaborative" : false,
+      "description" : "Hits of the 70s, 80s and 90s for gamers who love things retro.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWYnY33e7En9e"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYnY33e7En9e",
+      "id" : "37i9dQZF1DWYnY33e7En9e",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000388de98e46d5a0436a444c34f",
+        "width" : null
+      } ],
+      "name" : "Retro Gaming",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNDk5NCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYnY33e7En9e/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWYnY33e7En9e"
+    }, {
+      "collaborative" : false,
+      "description" : "Welcome, you belong here.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWVF0pvJ1YrL7"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVF0pvJ1YrL7",
+      "id" : "37i9dQZF1DWVF0pvJ1YrL7",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035cd0fc94278fe1862f99e372",
+        "width" : null
+      } ],
+      "name" : "Virtual Reality",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNDk4MCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVF0pvJ1YrL7/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWVF0pvJ1YrL7"
+    }, {
+      "collaborative" : false,
+      "description" : "A collection of songs from <a href=\"spotify:user:nytrvduf711vc7ja3kv9vwgnm\">Tony Hawk's Pro Skater 1 + 2</a>.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX6F6y6vVLZ8H"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6F6y6vVLZ8H",
+      "id" : "37i9dQZF1DX6F6y6vVLZ8H",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035b837c4474e9c89e9a0922a8",
+        "width" : null
+      } ],
+      "name" : "Tony Hawk's Pro Skater 1 + 2",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNTAwMywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX6F6y6vVLZ8H/tracks",
+        "total" : 53
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX6F6y6vVLZ8H"
+    }, {
+      "collaborative" : false,
+      "description" : "New arrival from FINAL FANTASY VII REMAKE Original Soundtrack + essential tracks from the series. ©2019 SQUARE ENIX CO., LTD. All Rights Reserved.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWYnGFRu5xvi8"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYnGFRu5xvi8",
+      "id" : "37i9dQZF1DWYnGFRu5xvi8",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003108a2e1618ce85bd3025b1e2",
+        "width" : null
+      } ],
+      "name" : "FINAL FANTASY",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNzYzNTAxMywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYnGFRu5xvi8/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWYnGFRu5xvi8"
+    }, {
+      "collaborative" : false,
+      "description" : "Music from the gaming series \"Yakuza: Like a Dragon\" -「龍が如く7　光と闇の行方」発売記念！シリーズ歴代テーマソング、サントラ楽曲を網羅した公式プレイリスト登場",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX40xbLWvaxZD"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX40xbLWvaxZD",
+      "id" : "37i9dQZF1DX40xbLWvaxZD",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000039469267c6bfd991814f9b33e",
+        "width" : null
+      } ],
+      "name" : "龍が如く -Yakuza: Like a Dragon-",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU5MDQyMjI2OCwwMDAwMDAwMzAwMDAwMTcyNGM4ZGVhNzMwMDAwMDE2ZjgwODA4NjAx",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX40xbLWvaxZD/tracks",
+        "total" : 50
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX40xbLWvaxZD"
+    }, {
+      "collaborative" : false,
+      "description" : "Enjoy game music from SEGA classic soundtracks including SONIC, SPACE HARRIER and OutRun. SEGA名作ゲームサントラの世界へようこそ！",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX2CtuHQcongT"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX2CtuHQcongT",
+      "id" : "37i9dQZF1DX2CtuHQcongT",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003ac976f182a30cc62a758520e",
+        "width" : null
+      } ],
+      "name" : "This Is SEGA SOUND TEAM",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU5OTgzMzAxMCwwMDAwMDAwMzAwMDAwMTc0N2Q3YTcxZWQwMDAwMDE3MWI2YjMxNmEy",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX2CtuHQcongT/tracks",
+        "total" : 50
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX2CtuHQcongT"
+    }, {
+      "collaborative" : false,
+      "description" : "The hosts of <a href=\"spotify:show:3jtZt3VSBbBJPwrCGIeyc0\">The Misfits Podcast</a> guest curate.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX1xEPBKyoFUz"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1xEPBKyoFUz",
+      "id" : "37i9dQZF1DX1xEPBKyoFUz",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000037ca7d2aa5e7e37f59d68ddc8",
+        "width" : null
+      } ],
+      "name" : "Start Select",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYxNDc0NzYwMCwwMDAwMDAxNjAwMDAwMTc3ZjY3NTA0ZDMwMDAwMDE3N2Y1NTk1YTk2",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1xEPBKyoFUz/tracks",
+        "total" : 30
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX1xEPBKyoFUz"
+    } ],
+    "limit" : 20,
+    "next" : null,
+    "offset" : 0,
+    "previous" : null,
+    "total" : 18
+  }
+}

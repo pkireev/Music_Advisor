@@ -1,0 +1,796 @@
+{
+  "albums" : {
+    "href" : "https://api.spotify.com/v1/browse/new-releases?offset=0&limit=20",
+    "items" : [ {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+        "id" : "1uNFoZAHBGtllmzznpCI3s",
+        "name" : "Justin Bieber",
+        "type" : "artist",
+        "uri" : "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1VDEosYeESOUFnySf8mxDJ",
+      "id" : "1VDEosYeESOUFnySf8mxDJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733421e46ba95360d1a8792563",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023421e46ba95360d1a8792563",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513421e46ba95360d1a8792563",
+        "width" : 64
+      } ],
+      "name" : "Freedom.",
+      "release_date" : "2021-03-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:1VDEosYeESOUFnySf8mxDJ"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+        "id" : "1McMsnEElThX1knmY4oliG",
+        "name" : "Olivia Rodrigo",
+        "type" : "artist",
+        "uri" : "spotify:artist:1McMsnEElThX1knmY4oliG"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6yWrpE2mIyPHZGruU12jhP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6yWrpE2mIyPHZGruU12jhP",
+      "id" : "6yWrpE2mIyPHZGruU12jhP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735a07bfa14dc702773bb25583",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025a07bfa14dc702773bb25583",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515a07bfa14dc702773bb25583",
+        "width" : 64
+      } ],
+      "name" : "deja vu",
+      "release_date" : "2021-04-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6yWrpE2mIyPHZGruU12jhP"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp",
+        "id" : "6S2OmqARrzebs0tKUEyXyp",
+        "name" : "Demi Lovato",
+        "type" : "artist",
+        "uri" : "spotify:artist:6S2OmqARrzebs0tKUEyXyp"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7LEb5SYZrXiB8NDj2oYvOd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7LEb5SYZrXiB8NDj2oYvOd",
+      "id" : "7LEb5SYZrXiB8NDj2oYvOd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737379008b8d76b2c65323fed7",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027379008b8d76b2c65323fed7",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517379008b8d76b2c65323fed7",
+        "width" : 64
+      } ],
+      "name" : "Dancing With The Devil…The Art of Starting Over",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 19,
+      "type" : "album",
+      "uri" : "spotify:album:7LEb5SYZrXiB8NDj2oYvOd"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
+        "id" : "3Nrfpe0tUJi4K4DXYWgMUX",
+        "name" : "BTS",
+        "type" : "artist",
+        "uri" : "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2jae5Jx8Yh1WjP1K4wTFUa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2jae5Jx8Yh1WjP1K4wTFUa",
+      "id" : "2jae5Jx8Yh1WjP1K4wTFUa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334938530af5d2d98acf174fc",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234938530af5d2d98acf174fc",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134938530af5d2d98acf174fc",
+        "width" : 64
+      } ],
+      "name" : "Film out",
+      "release_date" : "2021-04-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2jae5Jx8Yh1WjP1K4wTFUa"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6jGMq4yGs7aQzuGsMgVgZR",
+        "id" : "6jGMq4yGs7aQzuGsMgVgZR",
+        "name" : "Lil Tjay",
+        "type" : "artist",
+        "uri" : "spotify:artist:6jGMq4yGs7aQzuGsMgVgZR"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3MEKpJ7wSSp6Z661ThjrUJ",
+      "id" : "3MEKpJ7wSSp6Z661ThjrUJ",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2735af0305457ff290e06dcc4c2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e025af0305457ff290e06dcc4c2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048515af0305457ff290e06dcc4c2",
+        "width" : 64
+      } ],
+      "name" : "Destined 2 Win",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 21,
+      "type" : "album",
+      "uri" : "spotify:album:3MEKpJ7wSSp6Z661ThjrUJ"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/45gHcnDnMC15sgx3VL7ROG",
+        "id" : "45gHcnDnMC15sgx3VL7ROG",
+        "name" : "42 Dugg",
+        "type" : "artist",
+        "uri" : "spotify:artist:45gHcnDnMC15sgx3VL7ROG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        "href" : "https://api.spotify.com/v1/artists/757aE44tKEUQEqRuT6GnEB",
+        "id" : "757aE44tKEUQEqRuT6GnEB",
+        "name" : "Roddy Ricch",
+        "type" : "artist",
+        "uri" : "spotify:artist:757aE44tKEUQEqRuT6GnEB"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6NRf3rD5JCAsD3tHBTKZ6P"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6NRf3rD5JCAsD3tHBTKZ6P",
+      "id" : "6NRf3rD5JCAsD3tHBTKZ6P",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736c0d7a083b347a0f51217d50",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026c0d7a083b347a0f51217d50",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516c0d7a083b347a0f51217d50",
+        "width" : 64
+      } ],
+      "name" : "4 Da Gang (with Roddy Ricch)",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6NRf3rD5JCAsD3tHBTKZ6P"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1Bl6wpkWCQ4KVgnASpvzzA",
+        "id" : "1Bl6wpkWCQ4KVgnASpvzzA",
+        "name" : "BROCKHAMPTON",
+        "type" : "artist",
+        "uri" : "spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2S60rvhdR33rjng6tLmErA"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2S60rvhdR33rjng6tLmErA",
+      "id" : "2S60rvhdR33rjng6tLmErA",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2739d7c620c1169772ee31fa172",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e029d7c620c1169772ee31fa172",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048519d7c620c1169772ee31fa172",
+        "width" : 64
+      } ],
+      "name" : "COUNT ON ME",
+      "release_date" : "2021-04-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2S60rvhdR33rjng6tLmErA"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2W8yFh0Ga6Yf3jiayVxwkE",
+        "id" : "2W8yFh0Ga6Yf3jiayVxwkE",
+        "name" : "Dove Cameron",
+        "type" : "artist",
+        "uri" : "spotify:artist:2W8yFh0Ga6Yf3jiayVxwkE"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3cd1HgIGBisYfK7UUThumR"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3cd1HgIGBisYfK7UUThumR",
+      "id" : "3cd1HgIGBisYfK7UUThumR",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273241eb2ccfaac2cd0e3427d10",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02241eb2ccfaac2cd0e3427d10",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851241eb2ccfaac2cd0e3427d10",
+        "width" : 64
+      } ],
+      "name" : "LazyBaby",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3cd1HgIGBisYfK7UUThumR"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6trIghKwHRUyxwvm66HLHH",
+        "id" : "6trIghKwHRUyxwvm66HLHH",
+        "name" : "Fousheé",
+        "type" : "artist",
+        "uri" : "spotify:artist:6trIghKwHRUyxwvm66HLHH"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6zrhRSr8mkBjiklBDFtMub"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6zrhRSr8mkBjiklBDFtMub",
+      "id" : "6zrhRSr8mkBjiklBDFtMub",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d95b36800cd977559d5af4b0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d95b36800cd977559d5af4b0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d95b36800cd977559d5af4b0",
+        "width" : 64
+      } ],
+      "name" : "gold fronts (feat. Lil Wayne)",
+      "release_date" : "2021-03-29",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:6zrhRSr8mkBjiklBDFtMub"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1zkKkDDra0jlsiJYz57P3P",
+        "id" : "1zkKkDDra0jlsiJYz57P3P",
+        "name" : "Mustafa",
+        "type" : "artist",
+        "uri" : "spotify:artist:1zkKkDDra0jlsiJYz57P3P"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0dA1GAsNyDEHy0uHAkXFzS"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0dA1GAsNyDEHy0uHAkXFzS",
+      "id" : "0dA1GAsNyDEHy0uHAkXFzS",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273587f1261496ec8aecd56388c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02587f1261496ec8aecd56388c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851587f1261496ec8aecd56388c",
+        "width" : 64
+      } ],
+      "name" : "Ali",
+      "release_date" : "2021-03-30",
+      "release_date_precision" : "day",
+      "total_tracks" : 3,
+      "type" : "album",
+      "uri" : "spotify:album:0dA1GAsNyDEHy0uHAkXFzS"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ZpEKRjHaHANcpk10u6Ntq",
+        "id" : "3ZpEKRjHaHANcpk10u6Ntq",
+        "name" : "Ayra Starr",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ZpEKRjHaHANcpk10u6Ntq"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3VwKSHAfgzV1DOHV0aANCI",
+        "id" : "3VwKSHAfgzV1DOHV0aANCI",
+        "name" : "TOKiMONSTA",
+        "type" : "artist",
+        "uri" : "spotify:artist:3VwKSHAfgzV1DOHV0aANCI"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5JWBXFlYkBy3n2oN1To790",
+        "id" : "5JWBXFlYkBy3n2oN1To790",
+        "name" : "Mavins",
+        "type" : "artist",
+        "uri" : "spotify:artist:5JWBXFlYkBy3n2oN1To790"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BG", "BH", "BN", "BO", "BR", "BS", "BT", "BY", "BZ", "CA", "CH", "CL", "CO", "CR", "CW", "CY", "CZ", "DE", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GB", "GD", "GE", "GR", "GT", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KG", "KH", "KI", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MH", "MK", "MN", "MO", "MT", "MV", "MX", "MY", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "SA", "SB", "SE", "SG", "SI", "SK", "SM", "SR", "SV", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "UA", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
+      },
+      "href" : "https://api.spotify.com/v1/albums/19AGDITx691QWTmb0q1hhf",
+      "id" : "19AGDITx691QWTmb0q1hhf",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c9e8de81893f18efa1ce5722",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c9e8de81893f18efa1ce5722",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c9e8de81893f18efa1ce5722",
+        "width" : 64
+      } ],
+      "name" : "Ija (TOKiMONSTA Remix)",
+      "release_date" : "2021-03-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:19AGDITx691QWTmb0q1hhf"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0Y4inQK6OespitzD6ijMwb",
+        "id" : "0Y4inQK6OespitzD6ijMwb",
+        "name" : "Freddie Gibbs",
+        "type" : "artist",
+        "uri" : "spotify:artist:0Y4inQK6OespitzD6ijMwb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/23z64efpO96DGfS8ruzWdq"
+      },
+      "href" : "https://api.spotify.com/v1/albums/23z64efpO96DGfS8ruzWdq",
+      "id" : "23z64efpO96DGfS8ruzWdq",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273545dc34cf8c19770570d6342",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02545dc34cf8c19770570d6342",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851545dc34cf8c19770570d6342",
+        "width" : 64
+      } ],
+      "name" : "Big Boss Rabbit",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:23z64efpO96DGfS8ruzWdq"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2YqJwmohaNjg9lg51flSax",
+        "id" : "2YqJwmohaNjg9lg51flSax",
+        "name" : "Chiiild",
+        "type" : "artist",
+        "uri" : "spotify:artist:2YqJwmohaNjg9lg51flSax"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        "href" : "https://api.spotify.com/v1/artists/16rCzZOMQX7P8Kmn5YKexI",
+        "id" : "16rCzZOMQX7P8Kmn5YKexI",
+        "name" : "Mahalia",
+        "type" : "artist",
+        "uri" : "spotify:artist:16rCzZOMQX7P8Kmn5YKexI"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4ETTgOOvLI2Kc5Qc4kckhO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4ETTgOOvLI2Kc5Qc4kckhO",
+      "id" : "4ETTgOOvLI2Kc5Qc4kckhO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734c3d378fed1d439365105ea2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024c3d378fed1d439365105ea2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514c3d378fed1d439365105ea2",
+        "width" : 64
+      } ],
+      "name" : "Awake",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4ETTgOOvLI2Kc5Qc4kckhO"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3P4vW5tzQvmuoNaFQqzy9q",
+        "id" : "3P4vW5tzQvmuoNaFQqzy9q",
+        "name" : "chloe moriondo",
+        "type" : "artist",
+        "uri" : "spotify:artist:3P4vW5tzQvmuoNaFQqzy9q"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7pVckQv8uworjO5MOXuBUp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7pVckQv8uworjO5MOXuBUp",
+      "id" : "7pVckQv8uworjO5MOXuBUp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c75607480959040fb0ddef6e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c75607480959040fb0ddef6e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c75607480959040fb0ddef6e",
+        "width" : 64
+      } ],
+      "name" : "I Eat Boys",
+      "release_date" : "2021-04-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 4,
+      "type" : "album",
+      "uri" : "spotify:album:7pVckQv8uworjO5MOXuBUp"
+    }, {
+      "album_type" : "album",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7rYLqyGeyCnraP6vBfhfFn"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7rYLqyGeyCnraP6vBfhfFn",
+        "id" : "7rYLqyGeyCnraP6vBfhfFn",
+        "name" : "Leslie Jordan",
+        "type" : "artist",
+        "uri" : "spotify:artist:7rYLqyGeyCnraP6vBfhfFn"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2n9E08VXyUL1GGOwnVM6tm"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2n9E08VXyUL1GGOwnVM6tm",
+      "id" : "2n9E08VXyUL1GGOwnVM6tm",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e7da9ec74903856ac31732e2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e7da9ec74903856ac31732e2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e7da9ec74903856ac31732e2",
+        "width" : 64
+      } ],
+      "name" : "Company's Comin'",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 15,
+      "type" : "album",
+      "uri" : "spotify:album:2n9E08VXyUL1GGOwnVM6tm"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7bcbShaqKdcyjnmv4Ix8j6",
+        "id" : "7bcbShaqKdcyjnmv4Ix8j6",
+        "name" : "St. Vincent",
+        "type" : "artist",
+        "uri" : "spotify:artist:7bcbShaqKdcyjnmv4Ix8j6"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0mOmcNkbEpgXvSWlhrHtdj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0mOmcNkbEpgXvSWlhrHtdj",
+      "id" : "0mOmcNkbEpgXvSWlhrHtdj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2736ed83047bbf2f6c9851488b2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e026ed83047bbf2f6c9851488b2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048516ed83047bbf2f6c9851488b2",
+        "width" : 64
+      } ],
+      "name" : "The Melting Of The Sun",
+      "release_date" : "2021-04-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 2,
+      "type" : "album",
+      "uri" : "spotify:album:0mOmcNkbEpgXvSWlhrHtdj"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6eJa3zG1QZLRB3xgRuyxbm",
+        "id" : "6eJa3zG1QZLRB3xgRuyxbm",
+        "name" : "Dayglow",
+        "type" : "artist",
+        "uri" : "spotify:artist:6eJa3zG1QZLRB3xgRuyxbm"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7KrFIcXSNVl52AbtxRtRlp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7KrFIcXSNVl52AbtxRtRlp",
+      "id" : "7KrFIcXSNVl52AbtxRtRlp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2731aca9649a7635771d9cc114a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e021aca9649a7635771d9cc114a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048511aca9649a7635771d9cc114a",
+        "width" : 64
+      } ],
+      "name" : "Woah Man",
+      "release_date" : "2021-04-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7KrFIcXSNVl52AbtxRtRlp"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0CbeG1224FS58EUx4tPevZ",
+        "id" : "0CbeG1224FS58EUx4tPevZ",
+        "name" : "Timmy Trumpet",
+        "type" : "artist",
+        "uri" : "spotify:artist:0CbeG1224FS58EUx4tPevZ"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz",
+        "id" : "4D75GcNG95ebPtNvoNVXhz",
+        "name" : "Afrojack",
+        "type" : "artist",
+        "uri" : "spotify:artist:4D75GcNG95ebPtNvoNVXhz"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/15v2LmWavzASn38XSzS0dO"
+      },
+      "href" : "https://api.spotify.com/v1/albums/15v2LmWavzASn38XSzS0dO",
+      "id" : "15v2LmWavzASn38XSzS0dO",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730ba36962a0a6e92ff8d6399e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020ba36962a0a6e92ff8d6399e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510ba36962a0a6e92ff8d6399e",
+        "width" : 64
+      } ],
+      "name" : "Stay Mine",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:15v2LmWavzASn38XSzS0dO"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6BH1xcDkwbbyrLMUKECsW1",
+        "id" : "6BH1xcDkwbbyrLMUKECsW1",
+        "name" : "Toosii",
+        "type" : "artist",
+        "uri" : "spotify:artist:6BH1xcDkwbbyrLMUKECsW1"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/05eiiKtWWqwchbGVuU37ee"
+      },
+      "href" : "https://api.spotify.com/v1/albums/05eiiKtWWqwchbGVuU37ee",
+      "id" : "05eiiKtWWqwchbGVuU37ee",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27337b0fe372f88059b977a777c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0237b0fe372f88059b977a777c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485137b0fe372f88059b977a777c",
+        "width" : 64
+      } ],
+      "name" : "back together",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:05eiiKtWWqwchbGVuU37ee"
+    }, {
+      "album_type" : "single",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7LvoDJUNGnOrPdGRzVtOJ9",
+        "id" : "7LvoDJUNGnOrPdGRzVtOJ9",
+        "name" : "Young M.A",
+        "type" : "artist",
+        "uri" : "spotify:artist:7LvoDJUNGnOrPdGRzVtOJ9"
+      } ],
+      "available_markets" : [ "AD", "AE", "AG", "AL", "AM", "AO", "AR", "AT", "AU", "AZ", "BA", "BB", "BD", "BE", "BF", "BG", "BH", "BI", "BJ", "BN", "BO", "BR", "BS", "BT", "BW", "BY", "BZ", "CA", "CH", "CI", "CL", "CM", "CO", "CR", "CV", "CW", "CY", "CZ", "DE", "DJ", "DK", "DM", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FJ", "FM", "FR", "GA", "GB", "GD", "GE", "GH", "GM", "GN", "GQ", "GR", "GT", "GW", "GY", "HK", "HN", "HR", "HT", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JM", "JO", "JP", "KE", "KG", "KH", "KI", "KM", "KN", "KR", "KW", "KZ", "LA", "LB", "LC", "LI", "LK", "LR", "LS", "LT", "LU", "LV", "MA", "MC", "MD", "ME", "MG", "MH", "MK", "ML", "MN", "MO", "MR", "MT", "MU", "MV", "MW", "MX", "MY", "MZ", "NA", "NE", "NG", "NI", "NL", "NO", "NP", "NR", "NZ", "OM", "PA", "PE", "PG", "PH", "PK", "PL", "PS", "PT", "PW", "PY", "QA", "RO", "RS", "RU", "RW", "SA", "SB", "SC", "SE", "SG", "SI", "SK", "SL", "SM", "SN", "SR", "ST", "SV", "SZ", "TD", "TG", "TH", "TL", "TN", "TO", "TR", "TT", "TV", "TW", "TZ", "UA", "UG", "US", "UY", "UZ", "VC", "VN", "VU", "WS", "XK", "ZA", "ZM", "ZW" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/69OTucaZxBibcARNqe8mLu"
+      },
+      "href" : "https://api.spotify.com/v1/albums/69OTucaZxBibcARNqe8mLu",
+      "id" : "69OTucaZxBibcARNqe8mLu",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2733c8d4811ec12034113fc78a5",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e023c8d4811ec12034113fc78a5",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048513c8d4811ec12034113fc78a5",
+        "width" : 64
+      } ],
+      "name" : "Successful",
+      "release_date" : "2021-04-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:69OTucaZxBibcARNqe8mLu"
+    } ],
+    "limit" : 20,
+    "next" : "https://api.spotify.com/v1/browse/new-releases?offset=20&limit=20",
+    "offset" : 0,
+    "previous" : null,
+    "total" : 100
+  }
+}

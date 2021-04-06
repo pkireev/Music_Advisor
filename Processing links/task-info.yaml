@@ -868,6 +868,55 @@ files:
         }
     }
   learner_created: false
+- name: categories.dat
+  visible: true
+  learner_created: true
+- name: ./Constants.java
+  visible: true
+  text: |
+    package advisor;
+
+    public class Constants {
+        public static final String client_id = "6035cc165c744bba80145224ee81ad21";
+        public static final String client_secret = "2040b45594d94f469649568c6b8fe48d";
+    }
+  learner_created: true
+- name: ./test-categories.json
+  visible: true
+  learner_created: true
+- name: ./test-featured.json
+  visible: true
+  learner_created: true
+- name: ./test-new.json
+  visible: true
+  learner_created: true
+- name: ./test-playlists.json
+  visible: true
+  learner_created: true
+- name: ./TestJSONParsing.java
+  visible: true
+  learner_created: true
+- name: src/advisor/test-featured.json
+  visible: true
+  learner_created: true
+- name: src/advisor/TestJSONParsing.java
+  visible: true
+  learner_created: true
+- name: src/advisor/test-playlists.json
+  visible: true
+  learner_created: true
+- name: src/advisor/test-new.json
+  visible: true
+  learner_created: true
+- name: src/advisor/test-categories.json
+  visible: true
+  learner_created: true
+- name: src/advisor/Constants.java
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/62/stages/338/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 06 Apr 2021 14:58:41 UTC
 record: -1
